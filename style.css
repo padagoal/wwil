@@ -1,0 +1,36 @@
+.content {	width: 100%;	border: 16px solid #3988ca;}
+.building h1{
+    margin-top: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 50px;
+}
+.socialmedialink {
+    padding-bottom: 1em;
+    padding-top: 1em;
+    border-top: 2px solid #c2c3c5;
+    border-bottom: 2px solid #c2c3c5;
+    width: 100%;
+}
+
+.tit1{
+    color: red;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    font-weight: bold;
+    margin-left: 1em;
+}
+.tit2{
+    margin-left: 1em;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+a {
+    color: #3988ca;
+    text-decoration: none;
+    font-size: 30px;
+}
